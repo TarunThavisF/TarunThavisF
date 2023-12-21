@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun Thavis F</h1>
 <h3 align="center">I’m Computer Science Engineer handson with UI/UX design development, Web development, Android development, Python. Looking forward to an exciting opportunity that pushes my boundaries for the growth of Organization and myself.</h3>
-<img_align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img_align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24297652">
 
 - 🔭 I’m currently working on **Chatting Application - Flutter**
 
