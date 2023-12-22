@@ -2,7 +2,7 @@
 <h3 align="center">I’m Computer Science Engineer handson with UI/UX design development, Web development, Android development, Python. Looking forward to an exciting opportunity that pushes my boundaries for the growth of Organization and myself.</h3>
 <img_align="right" alt="Coding" width="300" src="https://tenor.com/view/coding-gif-24297652">
 
-- 🔭 I’m currently working on **Chatting Application - Flutter**
+- 🔭 I’m currently working on **Chatting Application - Flutter/Firebase**
 
 - 🌱 I’m currently learning **AWS**
 
