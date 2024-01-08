@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Chatting Application - Flutter/Firebase**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS Cloud Formation**
 
 - 📫 How to reach me **tarunthavis@gmail.com**
 
